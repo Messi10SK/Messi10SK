@@ -29,6 +29,10 @@ I'm an experienced Full Stack Developer with a strong command of the **MERN stac
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-009688?style=flat&logo=drizzle&logoColor=white)
 
 ---
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/KanojiyaSatyam?theme=dark&font=Montserrat)
+
+---
 
 
 
