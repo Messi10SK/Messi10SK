@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Satyam Kanojiya
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7;Full+Stack+Developer;DSA+Enthusiast)
 
 ## 🚀 About Me
 I'm an experienced Full Stack Developer with a strong command of the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js** for building robust, scalable web applications. I have proficiency in enhancing user experiences through advanced animation techniques using **Framer Motion** and **GSAP**. My database management skills extend to **Prisma** and **Drizzle ORMs**, alongside expertise in **MySQL**, **PostgreSQL**, and **SQLite**. I enjoy crafting scalable, high-performance solutions that integrate frontend aesthetics with backend functionality. I'm passionate about staying updated with the latest web development technologies and delivering innovative, user-centric applications.
